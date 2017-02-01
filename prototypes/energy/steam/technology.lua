@@ -2,7 +2,7 @@ data:extend({
 {
   type = "technology",
   name = "better-steam",
-  icon = "__mod__\graphics\icons\steam\steam_tech_x144.png",
+  icon = "__mineMod__\graphics\icons\steam\steam_tech_x144.png",
   effects =
   {
     {
