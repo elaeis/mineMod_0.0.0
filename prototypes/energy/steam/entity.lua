@@ -239,7 +239,7 @@ data:extend({
       { position = {-1, 0} }
     },
   },
-  energy_consumption = "390kW",
+  energy_consumption = "300kW",
   burner =
   {
     effectivity = 0.75,

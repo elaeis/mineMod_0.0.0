@@ -27,7 +27,7 @@ data:extend({
   icon = "__base__/graphics/icons/steam-engine.png",
   flags = {"goes-to-quickbar"},
   subgroup = "energy",
-  order = "b[steam-power]-b[steam-engine]",
+  order = "b[steam-power]-a[steam-engine]",
   place_result = "steam-engine-1",
   stack_size = 10
 },

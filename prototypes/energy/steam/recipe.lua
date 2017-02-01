@@ -3,7 +3,7 @@ data:extend({
   type = "recipe",
   name = "boiler-1",
   ingredients = {{"stone-furnace", 1}, {"pipe", 1}, {"boiler", 2}},
-  enabled = false,
+--  enabled = false,
   result = "boiler-1"
 },
 
@@ -17,7 +17,7 @@ data:extend({
     {"iron-plate", 5},
     {"steam-engine", 1}
   },
-  enabled = false,
+--  enabled = false,
   result = "steam-engine-1"
 },
 
@@ -31,7 +31,7 @@ data:extend({
     {"iron-gear-wheel", 1},
     {"offshore-pump", 1}
   },
-  enabled = false,
+--  enabled = false,
   result = "offshore-pump-1"
 },
 
