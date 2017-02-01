@@ -105,7 +105,7 @@ data:extend({
       { position = {0, 1} },
     },
   },
-  pumping_speed = 3,
+  pumping_speed = 2,
   tile_width = 1,
   vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
   picture =
@@ -145,67 +145,7 @@ data:extend({
       width = 160,
       height = 102
     }
-  },
-  circuit_wire_connection_points =
-  {
-    {
-      shadow =
-      {
-        red = {2.71875, 0.375},
-        green = {2.5, 0.375},
-      },
-      wire =
-      {
-        red = {0.84375, -0.09375},
-        green = {0.6875, -0.09375},
-      }
-    },
-    {
-      shadow =
-      {
-        red = {0.765625, 0.546875},
-        green = {0.765625, 0.421875},
-      },
-      wire =
-      {
-        red = {-0.28125, -0.09375},
-        green = {-0.28125, -0.21875},
-      }
-    },
-    {
-      shadow =
-      {
-        red = {-0.09375, 0.5625},
-        green = {0.0625, 0.5625},
-      },
-      wire =
-      {
-        red = {-0.90625, -0.53125},
-        green = {-0.75, -0.53125},
-      }
-    },
-    {
-      shadow =
-      {
-        red = {1.78125, -0.46875},
-        green = {1.78125, -0.3125},
-      },
-      wire =
-      {
-        red = {0.34375, -1.40625},
-        green = {0.34375, -1.25},
-      }
-    }
-  },
-  circuit_connector_sprites =
-  {
-    get_circuit_connector_sprites({0.90625, -0.15625}, nil, 0),
-    get_circuit_connector_sprites({0, 0.03125}, nil, 6),
-    get_circuit_connector_sprites({-0.9375, -0.25}, nil, 4),
-    get_circuit_connector_sprites({0.125, -1.3125}, nil, 2),
-  },
-  circuit_wire_max_distance = 7.5
-
+  }
 },
 
 {
