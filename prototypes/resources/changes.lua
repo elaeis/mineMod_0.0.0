@@ -1,0 +1,13 @@
+data.raw["item"]["stone-brick"].stack_size = 200
+data.raw["item"]["raw-wood"].stack_size = 200
+data.raw["item"]["coal"].stack_size = 200
+data.raw["item"]["solid-fuel"].stack_size = 500
+data.raw["item"]["stone"].stack_size = 200
+data.raw["item"]["iron-ore"].stack_size = 200
+data.raw["item"]["copper-ore"].stack_size = 200
+data.raw["item"]["wood"].stack_size = 200
+data.raw["item"]["iron-plate"].stack_size = 500
+data.raw["item"]["copper-plate"].stack_size = 500
+data.raw["item"]["stone-wall"].stack_size = 500
+data.raw["item"]["steel-plate"].stack_size = 500
+data.raw["item"]["plastic-bar"].stack_size = 500
